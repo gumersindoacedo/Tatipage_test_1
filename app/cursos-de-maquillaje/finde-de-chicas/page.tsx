@@ -5,7 +5,7 @@ const FindeDeChicas = () => {
   return (
     <div>
       <h1>Finde de Chicas</h1>
-      <p>Welcome to the Finde de Chicas course page.</p>
+<p>Bienvenido a la página del curso de Finde de Chicas.</p>
     </div>
   );
 };

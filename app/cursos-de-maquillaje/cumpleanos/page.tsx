@@ -5,7 +5,7 @@ const Cumpleanos = () => {
   return (
     <div>
       <h1>Cumpleaños</h1>
-      <p>Welcome to the Cumpleaños course page.</p>
+<p>Bienvenido a la página del curso de Cumpleaños.</p>
     </div>
   );
 };

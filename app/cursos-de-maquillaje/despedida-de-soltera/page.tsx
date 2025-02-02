@@ -5,7 +5,7 @@ const DespedidaDeSoltera = () => {
   return (
     <div>
       <h1>Despedida de Soltera</h1>
-      <p>Welcome to the Despedida de Soltera course page.</p>
+<p>Bienvenido a la página del curso de Despedida de Soltera.</p>
     </div>
   );
 };

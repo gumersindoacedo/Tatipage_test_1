@@ -5,7 +5,7 @@ const AutomaquillajeOnline = () => {
   return (
     <div>
       <h1>Automaquillaje Online</h1>
-      <p>Welcome to the Automaquillaje Online course page.</p>
+<p>Bienvenido a la página del curso de Automaquillaje Online.</p>
     </div>
   );
 };

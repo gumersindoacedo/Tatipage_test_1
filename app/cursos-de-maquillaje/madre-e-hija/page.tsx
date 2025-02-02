@@ -5,7 +5,7 @@ const MadreEHija = () => {
   return (
     <div>
       <h1>Madre e Hija</h1>
-      <p>Welcome to the Madre e Hija course page.</p>
+<p>Bienvenido a la página del curso de Madre e Hija.</p>
     </div>
   );
 };
